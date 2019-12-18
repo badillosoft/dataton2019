@@ -1,0 +1,269 @@
+_id,name,id
+ObjectId("5de858562e0ddc657d1b6add"),Procuraduría General de la República,PGR-251
+ObjectId("5de858562e0ddc657d1b6ade"),Servicio de Administración Tributaria,SAT-284
+ObjectId("5de858562e0ddc657d1b6adf"),Instituto Nacional de Antropología e Historia,INAH-195
+ObjectId("5de858562e0ddc657d1b6ae0"),Instituto de Administración y Avalúos de Bienes Nacionales,INDAABIN-173
+ObjectId("5de858562e0ddc657d1b6ae1"),Comisión Nacional para el Uso Eficiente de la Energía,CONUEE-98
+ObjectId("5de858562e0ddc657d1b6ae2"),Secretaría de Comunicaciones y Transportes,SCT-262
+ObjectId("5de858562e0ddc657d1b6ae3"),Agencia de Servicios a la Comercialización y Desarrollo de Mercados Agropecuarios,ASERCA-24
+ObjectId("5de858562e0ddc657d1b6ae4"),Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación,SAGARPA-261
+ObjectId("5de858562e0ddc657d1b6ae5"),Comisión Nacional del Agua,CONAGUA-94
+ObjectId("5de858562e0ddc657d1b6ae6"),XE-IPN Canal 11,OnceTV-311
+ObjectId("5de858562e0ddc657d1b6ae7"),Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria,SENASICA-290
+ObjectId("5de858562e0ddc657d1b6ae8"),Secretaría del Trabajo y Previsión Social,STPS-278
+ObjectId("5de858562e0ddc657d1b6ae9"),Comisión Reguladora de Energía,CRE-102
+ObjectId("5de858562e0ddc657d1b6aea"),Secretaría de la Defensa Nacional,SEDENA-269
+ObjectId("5de858562e0ddc657d1b6aeb"),Registro Agrario Nacional,RAN-258
+ObjectId("5de858562e0ddc657d1b6aec"),Instituto Nacional de Desarrollo Social,INDESOL-202
+ObjectId("5de858562e0ddc657d1b6aed"),Procuraduría Federal de Protección al Ambiente,PROFEPA-249
+ObjectId("5de858562e0ddc657d1b6aee"),Instituto Mexicano del Transporte,IMT-193
+ObjectId("5de858562e0ddc657d1b6aef"),Secretaría de la Función Pública,SFP-270
+ObjectId("5de858562e0ddc657d1b6af0"),Secretaría de Hacienda y Crédito Público,SHCP-268
+ObjectId("5de858562e0ddc657d1b6af1"),Secretaría de Economía,SE-264
+ObjectId("5de858562e0ddc657d1b6af2"),Secretaría de Turismo,SECTUR-277
+ObjectId("5de858562e0ddc657d1b6af3"),Servicios a la Navegación en el Espacio Aéreo Mexicano,SENEAM-292
+ObjectId("5de858562e0ddc657d1b6af4"),Comisión Nacional de Arbitraje Médico,CONAMED-82
+ObjectId("5de858562e0ddc657d1b6af5"),Comisión Nacional de Áreas Naturales Protegidas,CONANP-83
+ObjectId("5de858562e0ddc657d1b6af6"),Instituto Nacional de Migración,INM-214
+ObjectId("5de858562e0ddc657d1b6af7"),Secretaría de Energía,SENER-266
+ObjectId("5de858562e0ddc657d1b6af8"),Presidencia de la República,PR-244
+ObjectId("5de858562e0ddc657d1b6af9"),Secretaría de Desarrollo Social,SEDESOL-263
+ObjectId("5de858562e0ddc657d1b6afa"),Secretaría de Marina,SEMAR-272
+ObjectId("5de858562e0ddc657d1b6afb"),Comisión Nacional de Seguridad Nuclear y Salvaguardias,CNSNS-91
+ObjectId("5de858562e0ddc657d1b6afc"),Comisión Nacional del Sistema de Ahorro para el Retiro,CONSAR-95
+ObjectId("5de858562e0ddc657d1b6afd"),Secretaría de Medio Ambiente y Recursos Naturales,SEMARNAT-273
+ObjectId("5de858562e0ddc657d1b6afe"),Servicio de Información Agroalimentaria y Pesquera,SIAP-286
+ObjectId("5de858562e0ddc657d1b6aff"),Secretaría de Relaciones Exteriores,SRE-274
+ObjectId("5de858562e0ddc657d1b6b00"),Instituto Nacional de Bellas Artes y Literatura,INBAL-197
+ObjectId("5de858562e0ddc657d1b6b01"),Comisión Nacional de Acuacultura y Pesca,CONAPESCA-81
+ObjectId("5de858562e0ddc657d1b6b02"),Secretaría de Salud,SSA-275
+ObjectId("5de858562e0ddc657d1b6b03"),Centro de Investigación y Seguridad Nacional,CISEN-50
+ObjectId("5de858562e0ddc657d1b6b04"),Secretaría de Gobernación,SEGOB-267
+ObjectId("5de858562e0ddc657d1b6b05"),Comité Nacional Mixto de Protección al Salario,CONAMPROS-103
+ObjectId("5de858562e0ddc657d1b6b06"),Secretaría de Educación Pública,SEP-265
+ObjectId("5de858562e0ddc657d1b6b07"),Coordinación Nacional de PROSPERA Programa de Inclusión Social,PROSPERA-117
+ObjectId("5de858562e0ddc657d1b6b08"),Colegio Superior Agropecuario del Estado de Guerrero,CSAEGRO-72
+ObjectId("5de858562e0ddc657d1b6b09"),Comisión Nacional de Protección Social en Salud,CNPSS-90
+ObjectId("5de858562e0ddc657d1b6b0a"),Comisión Nacional Bancaria y de Valores,CNBV-80
+ObjectId("5de858562e0ddc657d1b6b0b"),Autoridad Educativa Federal en la Ciudad de México,AEFCM-2
+ObjectId("5de858562e0ddc657d1b6b0c"),Servicio Nacional de Inspección y Certificación de Semillas,SNICS-289
+ObjectId("5de858562e0ddc657d1b6b0d"),Secretaría de Cultura,CULTURA-113
+ObjectId("5de858562e0ddc657d1b6b0e"),Instituto Nacional de la Economía Social,INAES-116
+ObjectId("5de858562e0ddc657d1b6b0f"),Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública,SESNSP-282
+ObjectId("5de858562e0ddc657d1b6b10"),Secretaría de Desarrollo Agrario, Territorial y Urbano,SEDATU-271
+ObjectId("5de858562e0ddc657d1b6b11"),Comisión Nacional de Seguros y Fianzas,CNSF-92
+ObjectId("5de858562e0ddc657d1b6b12"),Consejería Jurídica del Ejecutivo Federal,CJEF-107
+ObjectId("5de858562e0ddc657d1b6b13"),Prevención y Readaptación Social,PRS-245
+ObjectId("5de858562e0ddc657d1b6b14"),Centro Nacional de Equidad de Género y Salud Reproductiva,CNEGSR-55
+ObjectId("5de858562e0ddc657d1b6b15"),Procuraduría Federal de la Defensa del Trabajo,PROFEDET-248
+ObjectId("5de858562e0ddc657d1b6b16"),Centro Nacional de Programas Preventivos y Control de Enfermedades,CENAPRECE-61
+ObjectId("5de858562e0ddc657d1b6b17"),Universidad Pedagógica Nacional,UPN-310
+ObjectId("5de858562e0ddc657d1b6b18"),Comisión Nacional de Hidrocarburos,CNH-86
+ObjectId("5de858562e0ddc657d1b6b19"),Centro Nacional para la Prevención y el Control del VIH/SIDA,CENSIDA-63
+ObjectId("5de858562e0ddc657d1b6b1a"),Centro Nacional de la Transfusión Sanguínea,CNTS-57
+ObjectId("5de858562e0ddc657d1b6b1b"),Comisión Federal para la Protección contra Riesgos Sanitarios,COFEPRIS-79
+ObjectId("5de858562e0ddc657d1b6b1c"),Instituto Nacional del Emprendedor,INADEM-322
+ObjectId("5de858562e0ddc657d1b6b1d"),Servicios de Atención Psiquiátrica,SAP-295
+ObjectId("5de858562e0ddc657d1b6b1e"),Administración del Patrimonio de la Beneficencia Pública,APBP-1
+ObjectId("5de858562e0ddc657d1b6b1f"),Instituto Politécnico Nacional,IPN-228
+ObjectId("5de858562e0ddc657d1b6b20"),Coordinación General @prende.mx,APRENDEMX-327
+ObjectId("5de858562e0ddc657d1b6b21"),Centro Nacional de Excelencia Tecnológica en Salud,CENETEC-56
+ObjectId("5de858562e0ddc657d1b6b22"),Agencia Reguladora del Transporte Ferroviario,ARTF-329
+ObjectId("5de858562e0ddc657d1b6b23"),Tecnológico Nacional de México,TECNM-324
+ObjectId("5de858562e0ddc657d1b6b24"),Comisión Nacional contra las Adicciones,CONADIC-316
+ObjectId("5de858562e0ddc657d1b6b25"),Comisión Nacional de Mejora Regulatoria,CONAMER-77
+ObjectId("5de858562e0ddc657d1b6b26"),Liconsa, S.A. de C.V.,LICONSA-231
+ObjectId("5de858562e0ddc657d1b6b27"),Comisión Nacional de Bioética,CNB-84
+ObjectId("5de858562e0ddc657d1b6b28"),Comisión Nacional Forestal,CONAFOR-96
+ObjectId("5de858562e0ddc657d1b6b29"),Centros de Integración Juvenil, A.C.,CIJ-66
+ObjectId("5de858562e0ddc657d1b6b2a"),Notimex, Agencia de Noticias del Estado Mexicano,NOTIMEX-234
+ObjectId("5de858562e0ddc657d1b6b2b"),Fideicomiso Fondo Nacional de Habitaciones Populares,FONHAPO-139
+ObjectId("5de858562e0ddc657d1b6b2c"),Pronósticos para la Asistencia Pública,PRONOSTICOS-256
+ObjectId("5de858562e0ddc657d1b6b2d"),Hospital Infantil de México Federico Gómez,HIM-163
+ObjectId("5de858562e0ddc657d1b6b2e"),Instituto Nacional de Neurología y Neurocirugía Manuel Velasco Suárez,INNN-215
+ObjectId("5de858562e0ddc657d1b6b2f"),Servicio Geológico Mexicano,SGM-288
+ObjectId("5de858562e0ddc657d1b6b30"),Centro de Investigación en Química Aplicada,CIQA-44
+ObjectId("5de858562e0ddc657d1b6b31"),Instituto Nacional para la Educación de los Adultos,INEA-224
+ObjectId("5de858562e0ddc657d1b6b32"),Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional,CINVESTAV-46
+ObjectId("5de858562e0ddc657d1b6b33"),Centro de Investigación y Docencia Económicas, A.C.,CIDE-48
+ObjectId("5de858562e0ddc657d1b6b34"),Patronato de Obras e Instalaciones del Instituto Politécnico Nacional,POI-237
+ObjectId("5de858562e0ddc657d1b6b35"),Fideicomiso de los Sistemas Normalizado de Competencia Laboral y de Certificación de Competencia Laboral,CONOCER-135
+ObjectId("5de858562e0ddc657d1b6b36"),Hospital General de México "Dr. Eduardo Liceaga",HGM-162
+ObjectId("5de858562e0ddc657d1b6b37"),Sociedad Hipotecaria Federal, S.N.C.,SHF-297
+ObjectId("5de858562e0ddc657d1b6b38"),Consejo Nacional de Fomento Educativo,CONAFE-112
+ObjectId("5de858562e0ddc657d1b6b39"),Caminos y Puentes Federales de Ingresos y Servicios Conexos,CAPUFE-31
+ObjectId("5de858562e0ddc657d1b6b3a"),Centro de Investigaciones Biológicas del Noroeste, S.C.,CIBNOR-51
+ObjectId("5de858562e0ddc657d1b6b3b"),Archivo General de la Nación,AGN-25
+ObjectId("5de858562e0ddc657d1b6b3c"),Comisión Federal de Competencia Económica,COFECE-75
+ObjectId("5de858562e0ddc657d1b6b3d"),Tribunal Federal de Justicia Administrativa,TFJA-304
+ObjectId("5de858562e0ddc657d1b6b3e"),Instituto Nacional de Ciencias Penales,INACIPE-201
+ObjectId("5de858562e0ddc657d1b6b3f"),Aeropuertos y Servicios Auxiliares,ASA-20
+ObjectId("5de858562e0ddc657d1b6b40"),Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán,INCMNSZ-200
+ObjectId("5de858562e0ddc657d1b6b41"),CIATEC, A.C. "Centro de Innovación Aplicada en Tecnologías Competitivas",CIATEC-67
+ObjectId("5de858562e0ddc657d1b6b42"),Administración Portuaria Integral de Mazatlán, S.A. de C.V.,API-Mazatlán-10
+ObjectId("5de858562e0ddc657d1b6b43"),Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas,ISSFAM-180
+ObjectId("5de858562e0ddc657d1b6b44"),Comisión Nacional de las Zonas Áridas,CONAZA-87
+ObjectId("5de858562e0ddc657d1b6b45"),Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros,CONDUSEF-99
+ObjectId("5de858562e0ddc657d1b6b46"),Banco Nacional de Comercio Exterior, S.N.C.,BANCOMEXT-27
+ObjectId("5de858562e0ddc657d1b6b47"),Hospital General "Dr. Manuel Gea González",HG-161
+ObjectId("5de858562e0ddc657d1b6b48"),Aeropuerto Internacional de la Ciudad de México, S.A. de C.V.,AICM-19
+ObjectId("5de858562e0ddc657d1b6b49"),Instituto Nacional de Electricidad y Energías Limpias,INEEL-178
+ObjectId("5de858562e0ddc657d1b6b4a"),Instituto Federal de Acceso a la Información y Protección de Datos,IFAI-184
+ObjectId("5de858562e0ddc657d1b6b4b"),Banco Nacional de Obras y Servicios Públicos, S.N.C.,BANOBRAS-29
+ObjectId("5de858562e0ddc657d1b6b4c"),Servicios Aeroportuarios de la Ciudad de México, S.A. de C.V.,SACM-293
+ObjectId("5de858562e0ddc657d1b6b4d"),Hospital Regional de Alta Especialidad de Ixtapaluca,HRAEI-320
+ObjectId("5de858562e0ddc657d1b6b4e"),Nacional Financiera, S.N.C.,NAFIN-233
+ObjectId("5de858562e0ddc657d1b6b4f"),El Colegio de la Frontera Sur,ECOSUR-123
+ObjectId("5de858562e0ddc657d1b6b50"),Instituto Mexicano de la Propiedad Industrial,IMPI-188
+ObjectId("5de858562e0ddc657d1b6b51"),Instituto Nacional de Enfermedades Respiratorias Ismael Cosío Villegas,INER-204
+ObjectId("5de858562e0ddc657d1b6b52"),Comisión Nacional para el Desarrollo de los Pueblos Indígenas,CDI-97
+ObjectId("5de858562e0ddc657d1b6b53"),Instituto Nacional de Lenguas Indígenas,INALI-212
+ObjectId("5de858562e0ddc657d1b6b54"),Instituto Nacional de Perinatología Isidro Espinosa de los Reyes,INPER-217
+ObjectId("5de858562e0ddc657d1b6b55"),Instituto Potosino de Investigación Científica y Tecnológica, A.C.,IPICYT-229
+ObjectId("5de858562e0ddc657d1b6b56"),Centro de Investigaciones y Estudios Superiores en Antropología Social,CIESAS-53
+ObjectId("5de858562e0ddc657d1b6b57"),Instituto Nacional de Salud Pública,INSP-220
+ObjectId("5de858562e0ddc657d1b6b58"),Comisión de Operación y Fomento de Actividades Académicas del Instituto Politécnico Nacional,COFAA-74
+ObjectId("5de858562e0ddc657d1b6b59"),Fideicomiso de Fomento Minero,FIFOMI-133
+ObjectId("5de858562e0ddc657d1b6b5a"),Instituto Federal de Telecomunicaciones,IFT-78
+ObjectId("5de858562e0ddc657d1b6b5b"),Consejo de Promoción Turística de México, S.A. de C.V.,CPTM-109
+ObjectId("5de858562e0ddc657d1b6b5c"),Centro Nacional de Control de Energía,CENACE-323
+ObjectId("5de858562e0ddc657d1b6b5d"),Consejo Nacional de Evaluación de la Política de Desarrollo Social,CONEVAL-111
+ObjectId("5de858562e0ddc657d1b6b5e"),Instituto de Ecología, A.C.,INECOL-175
+ObjectId("5de858562e0ddc657d1b6b5f"),Ferrocarril del Istmo de Tehuantepec, S.A. de C.V.,FIT-131
+ObjectId("5de858562e0ddc657d1b6b60"),Centro de Investigación en Ciencias de Información Geoespacial, A.C.,CENTROGEO-41
+ObjectId("5de858562e0ddc657d1b6b61"),Corporación Mexicana de Investigación en Materiales, S.A. de C.V.,COMIMSA-119
+ObjectId("5de858562e0ddc657d1b6b62"),Diconsa, S.A. de C.V.,DICONSA-120
+ObjectId("5de858562e0ddc657d1b6b63"),Banco del Ahorro Nacional y Servicios Financieros, S.N.C.,BANSEFI-26
+ObjectId("5de858562e0ddc657d1b6b64"),Compañía Mexicana de Exploraciones, S.A. de C.V.,COMESA-105
+ObjectId("5de858562e0ddc657d1b6b65"),Consejo Nacional para Prevenir la Discriminación,CONAPRED-114
+ObjectId("5de858562e0ddc657d1b6b66"),Instituto Nacional de las Mujeres,INMUJERES-210
+ObjectId("5de858562e0ddc657d1b6b67"),Comisión Ejecutiva de Atención a Víctimas,CEAV-314
+ObjectId("5de858562e0ddc657d1b6b68"),Fondo de Capitalización e Inversión del Sector Rural,FOCIR-147
+ObjectId("5de858562e0ddc657d1b6b69"),Colegio de Postgraduados,COLPOS-70
+ObjectId("5de858562e0ddc657d1b6b6a"),Administración Portuaria Integral de Topolobampo, S.A. de C.V.,API-Topolobampo-16
+ObjectId("5de858562e0ddc657d1b6b6b"),Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias,INIFAP-206
+ObjectId("5de858562e0ddc657d1b6b6c"),Instituto Nacional de la Infraestructura Física Educativa,INIFED-208
+ObjectId("5de858562e0ddc657d1b6b6d"),Televisión Metropolitana S.A. de C.V.,TVMETRO-300
+ObjectId("5de858562e0ddc657d1b6b6e"),Instituto para la Protección al Ahorro Bancario,IPAB-227
+ObjectId("5de858562e0ddc657d1b6b6f"),Hospital Regional de Alta Especialidad de la Península de Yucatán,HRAEPY-166
+ObjectId("5de858562e0ddc657d1b6b70"),Fideicomiso para la Cineteca Nacional,FICINE-141
+ObjectId("5de858562e0ddc657d1b6b71"),Policía Federal,PF-243
+ObjectId("5de858562e0ddc657d1b6b72"),Comisión Nacional de Vivienda,CONAVI-93
+ObjectId("5de858562e0ddc657d1b6b73"),ProMéxico,PROMEXICO-255
+ObjectId("5de858562e0ddc657d1b6b74"),Procuraduría de la Defensa del Contribuyente,PRODECON-247
+ObjectId("5de858562e0ddc657d1b6b75"),Instituto Nacional de Rehabilitación Luis Guillermo Ibarra Ibarra,INR-219
+ObjectId("5de858562e0ddc657d1b6b76"),Instituto Mexicano de Tecnología del Agua,IMTA-190
+ObjectId("5de858562e0ddc657d1b6b77"),Instituto Mexicano del Petróleo,IMP-191
+ObjectId("5de858562e0ddc657d1b6b78"),Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco, A.C.,CIATEJ-45
+ObjectId("5de858562e0ddc657d1b6b79"),Colegio Nacional de Educación Profesional Técnica,CONALEP-71
+ObjectId("5de858562e0ddc657d1b6b7a"),Estudios Churubusco Azteca, S.A.,ECHASA-127
+ObjectId("5de858562e0ddc657d1b6b7b"),Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.,BANJERCITO-30
+ObjectId("5de858562e0ddc657d1b6b7c"),FONATUR Mantenimiento Turístico, S.A. de C.V.,FONATUR Mantenimiento-144
+ObjectId("5de858562e0ddc657d1b6b7d"),Instituto Nacional de Ecología y Cambio Climático,INECC-203
+ObjectId("5de858562e0ddc657d1b6b7e"),Centro de Enseñanza Técnica Industrial,CETI-34
+ObjectId("5de858562e0ddc657d1b6b7f"),Agroasemex, S.A.,AGROASEMEX-22
+ObjectId("5de858562e0ddc657d1b6b80"),Telecomunicaciones de México,TELECOMM-299
+ObjectId("5de858562e0ddc657d1b6b81"),Sistema Nacional para el Desarrollo Integral de la Familia,DIF-296
+ObjectId("5de858562e0ddc657d1b6b82"),Instituto Nacional de Pediatría,INPI-216
+ObjectId("5de858562e0ddc657d1b6b83"),Administración Portuaria Integral de Salina Cruz, S.A. de C.V.,API-Salina Cruz-14
+ObjectId("5de858562e0ddc657d1b6b84"),Educal, S.A. de C.V.,EDUCAL-121
+ObjectId("5de858562e0ddc657d1b6b85"),Administración Portuaria Integral de Progreso, S.A. de C.V.,API-Progreso-11
+ObjectId("5de858562e0ddc657d1b6b86"),Centro Nacional de Metrología,CENAM-58
+ObjectId("5de858562e0ddc657d1b6b87"),Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos ,ASEA-326
+ObjectId("5de858562e0ddc657d1b6b88"),Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero,FND-142
+ObjectId("5de858562e0ddc657d1b6b89"),Servicio de Administración y Enajenación de Bienes,SAE-285
+ObjectId("5de858562e0ddc657d1b6b8a"),Centro de Investigación en Matemáticas, A.C.,CIMAT-42
+ObjectId("5de858562e0ddc657d1b6b8b"),Hospital Regional de Alta Especialidad de Ciudad Victoria "Bicentenario 2010",HRAEV-165
+ObjectId("5de858562e0ddc657d1b6b8c"),El Colegio de Michoacán, A.C.,COLMICH-125
+ObjectId("5de858562e0ddc657d1b6b8d"),Instituto Nacional de Pesca y Acuacultura,INAPESCA-209
+ObjectId("5de858562e0ddc657d1b6b8e"),Servicio de Protección Federal,SPF-287
+ObjectId("5de858562e0ddc657d1b6b8f"),Instituto Nacional de Psiquiatría Ramón de la Fuente Muñiz,INPSIQ-218
+ObjectId("5de858562e0ddc657d1b6b90"),Hospital Regional de Alta Especialidad de Oaxaca,HRAEO-167
+ObjectId("5de858562e0ddc657d1b6b91"),Fondo Nacional de Fomento al Turismo,FONATUR-157
+ObjectId("5de858562e0ddc657d1b6b92"),Hospital Regional de Alta Especialidad del Bajío,HRAEB-168
+ObjectId("5de858562e0ddc657d1b6b93"),Procuraduría Agraria,PA-246
+ObjectId("5de858562e0ddc657d1b6b94"),Sistema Público de Radiodifusión del Estado Mexicano,SPR-235
+ObjectId("5de858562e0ddc657d1b6b95"),Centro Nacional de Control del Gas Natural,CENAGAS-325
+ObjectId("5de858562e0ddc657d1b6b96"),Centro de Investigación en Alimentación y Desarrollo, A.C.,CIAD-40
+ObjectId("5de858562e0ddc657d1b6b97"),Administración Portuaria Integral de Dos Bocas, S.A. de C.V.,API-Dos Bocas-5
+ObjectId("5de858562e0ddc657d1b6b98"),Instituto de Investigaciones "Dr. José María Luis Mora",MORA-177
+ObjectId("5de858562e0ddc657d1b6b99"),Fideicomiso de Formación y Capacitación para el Personal de la Marina Mercante Nacional,FIDENA-134
+ObjectId("5de858562e0ddc657d1b6b9a"),Consejo Nacional de Ciencia y Tecnología,CONACYT-110
+ObjectId("5de858562e0ddc657d1b6b9b"),Laboratorios de Biológicos y Reactivos de México, S.A. de C.V.,BIRMEX-230
+ObjectId("5de858562e0ddc657d1b6b9c"),Instituto Mexicano de Cinematografía,IMCINE-186
+ObjectId("5de858562e0ddc657d1b6b9d"),Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California,CICESE-39
+ObjectId("5de858562e0ddc657d1b6b9e"),Lotería Nacional para la Asistencia Pública,LOTENAL-232
+ObjectId("5de858562e0ddc657d1b6b9f"),Instituto Nacional de las Personas Adultas Mayores,INAPAM-211
+ObjectId("5de858562e0ddc657d1b6ba0"),Administración Portuaria Integral de Coatzacoalcos, S.A. de C.V.,API-Coatzacoalcos-4
+ObjectId("5de858562e0ddc657d1b6ba1"),Administración Portuaria Integral de Veracruz, S.A. de C.V.,API-Veracruz-18
+ObjectId("5de858562e0ddc657d1b6ba2"),Comisión Nacional de los Salarios Mínimos,CONASAMI-89
+ObjectId("5de858562e0ddc657d1b6ba3"),Fondo Nacional para el Fomento de las Artesanías,FONART-158
+ObjectId("5de858562e0ddc657d1b6ba4"),Administración Portuaria Integral de Manzanillo, S.A. de C.V.,API-Manzanillo-9
+ObjectId("5de858562e0ddc657d1b6ba5"),Instituto Mexicano de la Juventud,IMJ-187
+ObjectId("5de858562e0ddc657d1b6ba6"),Fideicomiso del Fondo de Microfinanciamiento a Mujeres Rurales,FOMMUR-137
+ObjectId("5de858562e0ddc657d1b6ba7"),Instituto Nacional de Cardiología Ignacio Chávez,INCARD-199
+ObjectId("5de858562e0ddc657d1b6ba8"),Exportadora de Sal, S.A. de C.V.,ESSA-128
+ObjectId("5de858562e0ddc657d1b6ba9"),Centro de Capacitación Cinematográfica, A.C.,CCC-33
+ObjectId("5de858562e0ddc657d1b6baa"),Compañía Operadora del Centro Cultural y Turístico de Tijuana, S.A. de C.V.,CECUTT-106
+ObjectId("5de858562e0ddc657d1b6bab"),Instituto Nacional de Medicina Genómica,INMEGEN-213
+ObjectId("5de858562e0ddc657d1b6bac"),Instituto Nacional de Investigaciones Nucleares,ININ-207
+ObjectId("5de858562e0ddc657d1b6bad"),Productora Nacional de Biológicos Veterinarios,PRONABIVE-252
+ObjectId("5de858562e0ddc657d1b6bae"),Administración Portuaria Integral de Lázaro Cárdenas, S.A. de C.V.,API-Lázaro Cárdenas-8
+ObjectId("5de858562e0ddc657d1b6baf"),INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación,INFOTEC-153
+ObjectId("5de858562e0ddc657d1b6bb0"),Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar,CONADESUCA-104
+ObjectId("5de858562e0ddc657d1b6bb1"),Administración Portuaria Integral de Guaymas, S.A. de C.V.,API-Guaymas-7
+ObjectId("5de858562e0ddc657d1b6bb2"),El Colegio de la Frontera Norte, A.C.,COLEF-122
+ObjectId("5de858562e0ddc657d1b6bb3"),Seguros de Crédito a la Vivienda SHF, S.A. de C.V.,SCVSHF-283
+ObjectId("5de858562e0ddc657d1b6bb4"),CIATEQ, A.C. Centro de Tecnología Avanzada,CIATEQ-68
+ObjectId("5de858562e0ddc657d1b6bb5"),Instituto del Fondo Nacional para el Consumo de los Trabajadores,INFONACOT-183
+ObjectId("5de858562e0ddc657d1b6bb6"),Instituto Nacional de Cancerología,INCAN-198
+ObjectId("5de858562e0ddc657d1b6bb7"),Centro de Investigación Científica de Yucatán, A.C.,CICY-38
+ObjectId("5de858562e0ddc657d1b6bb8"),Administración Portuaria Integral de Tuxpan, S.A. de C.V.,API-Tuxpan-17
+ObjectId("5de858562e0ddc657d1b6bb9"),Servicio Postal Mexicano,SEPOMEX-291
+ObjectId("5de858562e0ddc657d1b6bba"),Colegio de Bachilleres,COLBACH-69
+ObjectId("5de858562e0ddc657d1b6bbb"),Hospital Juárez de México,HJM-164
+ObjectId("5de858562e0ddc657d1b6bbc"),Procuraduría Federal del Consumidor,PROFECO-250
+ObjectId("5de858562e0ddc657d1b6bbd"),Instituto Mexicano de la Radio,IMER-189
+ObjectId("5de858562e0ddc657d1b6bbe"),Administración Portuaria Integral de Altamira, S.A. de C.V.,API-Altamira-3
+ObjectId("5de858562e0ddc657d1b6bbf"),Centro de Investigaciones en Óptica, A.C.,CIO-52
+ObjectId("5de858562e0ddc657d1b6bc0"),Centro Regional de Alta Especialidad de Chiapas,CRAE-65
+ObjectId("5de858562e0ddc657d1b6bc1"),Talleres Gráficos de México,TGM-298
+ObjectId("5de858562e0ddc657d1b6bc2"),Administración Portuaria Integral de Puerto Madero, S.A. de C.V.,API-Puerto Madero-12
+ObjectId("5de858562e0ddc657d1b6bc3"),Fideicomiso de Riesgo Compartido,FIRCO-136
+ObjectId("5de858562e0ddc657d1b6bc4"),Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura,FIRA-151
+ObjectId("5de858562e0ddc657d1b6bc5"),El Colegio de San Luis, A.C.,COLSAN-126
+ObjectId("5de858562e0ddc657d1b6bc6"),Fideicomiso Fondo Nacional de Fomento Ejidal,FIFONAFE-138
+ObjectId("5de858562e0ddc657d1b6bc7"),FONATUR Constructora, S.A. de C.V.,FONATUR Constructora-143
+ObjectId("5de858562e0ddc657d1b6bc8"),Instituto Nacional del Suelo Sustentable,INSUS-101
+ObjectId("5de858562e0ddc657d1b6bc9"),Administración Portuaria Integral de Puerto Vallarta, S.A. de C.V.,API-Puerto Vallarta-13
+ObjectId("5de858562e0ddc657d1b6bca"),Agencia Espacial Mexicana,AEM-21
+ObjectId("5de858562e0ddc657d1b6bcb"),Instituto Nacional de Astrofísica, Óptica y Electrónica,INAOE-196
+ObjectId("5de858562e0ddc657d1b6bcc"),Tribunales Agrarios,Tribunales Agrarios-305
+ObjectId("5de858562e0ddc657d1b6bcd"),Comisión Nacional de Libros de Texto Gratuitos,CONALITEG-88
+ObjectId("5de858562e0ddc657d1b6bce"),Fondo de Cultura Económica,FCE-148
+ObjectId("5de858562e0ddc657d1b6bcf"),Instituto Nacional para el Desarrollo de Capacidades del Sector Rural, A.C.,INCA RURAL-222
+ObjectId("5de858562e0ddc657d1b6bd0"),FONATUR Operadora Portuaria, S.A. de C.V.,FONATUR Operadora-145
+ObjectId("5de858562e0ddc657d1b6bd1"),Centro de Investigación y Desarrollo Tecnológico en Electroquímica, S.C.,CIDETEQ-47
+ObjectId("5de858562e0ddc657d1b6bd2"),Casa de Moneda de México,CMM-32
+ObjectId("5de858562e0ddc657d1b6bd3"),Administración Portuaria Integral de Tampico, S.A. de C.V.,API-Tampico-15
+ObjectId("5de858562e0ddc657d1b6bd4"),Instituto Nacional de Geriatría,INGER-176
+ObjectId("5de858562e0ddc657d1b6bd5"),Comisión Nacional de Cultura Física y Deporte,CONADE-85
+ObjectId("5de858562e0ddc657d1b6bd6"),Administración Portuaria Integral de Ensenada, S.A. de C.V.,API-Ensenada-6
+ObjectId("5de858562e0ddc657d1b6bd7"),Centro de Investigación en Materiales Avanzados, S.C.,CIMAV-43
+ObjectId("5de858562e0ddc657d1b6bd8"),Secretaría Ejecutiva del Sistema Nacional Anticorrupción,SESNA-330
+ObjectId("5de858562e0ddc657d1b6bd9"),Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad,CONADIS-315
+ObjectId("5de858562e0ddc657d1b6bda"),Organismo Promotor de Inversiones en Telecomunicaciones,PROMTEL-328
+ObjectId("5de858562e0ddc657d1b6bdb"),Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales,ZEE-331
+ObjectId("5de858562e0ddc657d1b6bdc"),Instituto Nacional para la Evaluación de la Educación,INEE-225
+ObjectId("5de858562e0ddc657d1b6bdd"),Impresora y Encuadernadora Progreso, S.A. de C.V.,IEPSA-170
+ObjectId("5de858562e0ddc657d1b6bde"),Instituto Mexicano del Seguro Social,IMSS-192
+ObjectId("5de858562e0ddc657d1b6bdf"),Comisión Federal de Electricidad,CFE-76
+ObjectId("5de858562e0ddc657d1b6be0"),Instituto Nacional de Estadística Y Geografía,INEGI-313
+ObjectId("5de858562e0ddc657d1b6be1"),Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado,ISSSTE-181
+ObjectId("5de858562e0ddc657d1b6be2"),Secretaría de Agricultura y Desarrollo Rural,SADER-261
+ObjectId("5de858562e0ddc657d1b6be3"),Secretaria de Bienestar,BIENESTAR-263
+ObjectId("5de858562e0ddc657d1b6be4"),Instituto Nacional de los Pueblos Indígenas,INPI-97
+ObjectId("5de858562e0ddc657d1b6be5"),Centro de Ingeniería y Desarrollo Industrial,CIDESI-37
+ObjectId("5de858562e0ddc657d1b6be6"),Instituto Nacional de Pediatría,INP-216
+ObjectId("5de858562e0ddc657d1b6be7"),FONATUR Tren Maya, S.A. de C.V.,FONATUR TREN MAYA-145
+ObjectId("5de858562e0ddc657d1b6be8"),Instituto Nacional para el Desarrollo de Capacidades del Sector Rural, A.C.,INCARURAL-222
